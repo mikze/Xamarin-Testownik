@@ -1,0 +1,12 @@
+App1.MainActivity, App1;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+app1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.ManageActivity, App1;md5579855c995bdb073d8182511e793544c.ManageActivity
+App1.ManageActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.ManageActivity
+App1.ManageActivity;md5579855c995bdb073d8182511e793544c.ManageActivity
+app1.ManageActivity;md5579855c995bdb073d8182511e793544c.ManageActivity
+App1.QuestionActivity, App1;md5579855c995bdb073d8182511e793544c.QuestionActivity
+App1.QuestionActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.QuestionActivity
+App1.QuestionActivity;md5579855c995bdb073d8182511e793544c.QuestionActivity
+app1.QuestionActivity;md5579855c995bdb073d8182511e793544c.QuestionActivity

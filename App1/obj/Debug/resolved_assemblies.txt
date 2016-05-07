@@ -1,0 +1,9 @@
+D:\C#\App1\App1\obj\Debug\assemblies\App1.dll
+D:\C#\App1\App1\obj\Debug\assemblies\Mono.Android.dll
+D:\C#\App1\App1\obj\Debug\assemblies\mscorlib.dll
+D:\C#\App1\App1\obj\Debug\assemblies\System.Core.dll
+D:\C#\App1\App1\obj\Debug\assemblies\System.dll
+D:\C#\App1\App1\obj\Debug\assemblies\System.Xml.dll
+D:\C#\App1\App1\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\C#\App1\App1\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\C#\App1\App1\obj\Debug\assemblies\System.ServiceModel.Internals.dll

@@ -1,0 +1,17 @@
+D:\C#\App1\App1\bin\Debug\App1.dll
+D:\C#\App1\App1\bin\Debug\App1.pdb
+D:\C#\App1\App1\bin\Debug\App1.App1.apk
+D:\C#\App1\App1\bin\Debug\App1.App1-Signed.apk
+D:\C#\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+D:\C#\App1\App1\obj\Debug\App1.dll
+D:\C#\App1\App1\obj\Debug\App1.pdb
+D:\C#\App1\App1\obj\Debug\android\bin\App1.App1.apk
+D:\C#\App1\App1\obj\Debug\res\layout\main.xml
+D:\C#\App1\App1\obj\Debug\res\values\strings.xml
+D:\C#\App1\App1\obj\Debug\res\drawable\icon.png
+D:\C#\App1\App1\obj\Debug\R.cs.flag
+D:\C#\App1\App1\obj\Debug\uploadflags.txt
+D:\C#\App1\App1\obj\Debug\res\layout\question.xml
+D:\C#\App1\App1\obj\Debug\res\layout\manage.xml
+D:\C#\App1\App1\obj\Debug\App1.dll.mdb
+D:\C#\App1\App1\bin\Debug\App1.dll.mdb
